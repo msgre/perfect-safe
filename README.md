@@ -12,7 +12,7 @@ Watch this presentation video: http://youtu.be/yedk1cwqeQw
 
 ![Inside the safe](https://raw.github.com/msgre/perfect-safe/master/img/vnitrek.jpg)
 
-Technically there is Arduino littleBits module with [custom code](/msgre/perfect-safe/blob/master/perfect_safe.ino).
+Technically there is Arduino littleBits module with [custom code](https://github.com/msgre/perfect-safe/blob/master/perfect_safe.ino).
 
 ![littleBits scheme](https://raw.github.com/msgre/perfect-safe/master/img/zapojeni.JPG)
 
