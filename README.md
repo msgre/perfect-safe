@@ -14,7 +14,7 @@ Watch this presentation video: http://youtu.be/yedk1cwqeQw
 
 Technically there is Arduino littleBits module with custom code.
 
-![littleBits scheme](https://raw.github.com/msgre/perfect-safe/master/img/zapojeni.jpg)
+![littleBits scheme](https://raw.github.com/msgre/perfect-safe/master/img/zapojeni.JPG)
 
 Passcode is read from dimmer module connected to analog input. User just rotate
 to correct position (number from scale 1..9) and wait for a while. There is
